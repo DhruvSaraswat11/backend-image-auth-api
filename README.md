@@ -92,7 +92,7 @@ JWT_SECRET=your_secret_key
 
 ```
 npm install
-npm start
+npm run dev 
 ```
 
 ---
