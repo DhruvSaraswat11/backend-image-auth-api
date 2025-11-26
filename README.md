@@ -8,7 +8,7 @@ This project is a **Node.js + Express + MongoDB** based backend that provides **
 * **User Registration & Login** (JWT Token Based)
 * **Password Hashing** using bcrypt
 * **Image Upload** using Multer (Single/Multiple)
-* **Fetch All Uploaded Images**
+* **Fetch All Uploaded Images with pagination & sorting**
 * **Delete Uploaded Image**
 * **Change User Password**
 * **Admin Routes** (Protected)
