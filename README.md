@@ -84,6 +84,10 @@ body :
 PORT=5000
 MONGO_URI=your_mongo_connection
 JWT_SECRET=your_secret_key
+CLOUDINARY_CLOUD_NAME=  
+CLOUDINARY_API_KEY=   
+CLOUDINARY_API_SECRET=
+DEBUG=true
 ```
 
 ---
